@@ -25,7 +25,7 @@ ${PROJECT_SOURCE_DIR}/src/Factory.cpp
 ${PROJECT_SOURCE_DIR}/src/Manager.cpp
 ${PROJECT_SOURCE_DIR}/src/Personal.cpp
 ${PROJECT_SOURCE_DIR}/src/Project.cpp
-${PROJECT_SOURCE_DIR}/src/StringSplitter.cpp
+${PROJECT_SOURCE_DIR}/src/StringSplitter.cpp)
               
 
 set(CMAKE_CXX_STANDARD 11)
