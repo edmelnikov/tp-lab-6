@@ -1,0 +1,8 @@
+Edwards Bruce|Cleaner|100|140
+Lang Steven|Driver|150|168
+Tyler Jacob|Programmer|250|160|Project1|0.2
+Gallagher Edmund|Programmer|250|180|Project1|0.2
+Riley Ronald|Tester|180|120|Project1|0.05
+Goodwin Steven|TeamLeader|250|200|Project1|0.25|3|2000
+Lyons Jacob|ProjectManager|Project1|0.1|4|2500
+Griffith Leslie|SeniorManager|0.05|6|3000
