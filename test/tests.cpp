@@ -1,4 +1,12 @@
 #include "gtest/gtest.h"
+#include "Company.h"
+#include "Employee.h"
+#include "Engineer.h"
+#include "Factory.h"
+#include "Manager.h"
+#include "Personal.h"
+#include "Project.h"
+
 TEST(lab6, task1) {
 	Cleaner worker = Cleaner(1, "Alex", 100);
 	worker.setWorktime(160);
